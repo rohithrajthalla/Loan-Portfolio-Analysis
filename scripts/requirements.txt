@@ -1,0 +1,6 @@
+pandas==1.5.3
+numpy==1.23.5
+pyodbc==4.0.35
+python-dateutil==2.8.2
+logging==0.5.1.2
+pathlib==1.0.1

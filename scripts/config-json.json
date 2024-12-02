@@ -1,0 +1,13 @@
+{
+    "server": "localhost",
+    "database": "bank_loan_analysis",
+    "log_level": "INFO",
+    "validation_rules": {
+        "dti_max": 1.0,
+        "dti_min": 0.0,
+        "int_rate_max": 1.0,
+        "int_rate_min": 0.0,
+        "valid_loan_statuses": ["Fully Paid", "Current", "Charged Off"],
+        "min_loan_amount": 0
+    }
+}
